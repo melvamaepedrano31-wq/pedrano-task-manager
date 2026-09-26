@@ -1,14 +1,14 @@
-# Personal Task Manager
 
 Project Code: WST21-PM-2026-SF
 
-Student Name: Morga, Niña Mae C.
+Student Name: Melva Mae Pedrano
 
-Course & Year: BSIT 2nd Year
+Course & Year: BSIT - 2
 
-Database Used: SQLite
+Database Used: SQL
 
-Features:
+## Features
+
 - Add Task
 - View Tasks
 - Edit Task
