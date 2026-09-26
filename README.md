@@ -14,3 +14,4 @@ Database Used: SQL
 - Edit Task
 - Delete Task
 - Update Status
+- Dashboard
